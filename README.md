@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello! I'm Sakul 👋
+
+I am passionate about engineering, especially coding projects relating to electric vehicles.
+Working with Python currently
+Currently focused on creating predictive model to estimate the range of electric vehicles on various factors with Python.
+Feel free to suggest changes!
 
 <!--
 **sakulkatta/sakulkatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
